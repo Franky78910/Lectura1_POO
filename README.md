@@ -335,11 +335,11 @@ Para avanzar con el tema de la POO, vamos a revisar la definición de clase obje
 
 * La programacion orientada a objetos es utilizada por todos los lenguajes modernos.
 
-* La programacion POO aparecio para dar solucion a eventos repetitivos donde se agurpan en variables
+  * La programacion POO aparecio para dar solucion a eventos repetitivos donde se agurpan en variables
 
-* La POO permite divir el proyecto en partes pequeñas y trabajarlo de forma independiente
+  * La POO permite divir el proyecto en partes pequeñas y trabajarlo de forma independiente
 
-* Permite agregar funciones de forma rapida sin afectar en rendiemiento o los avnces de proyecto
+  * Permite agregar funciones de forma rapida sin afectar en rendiemiento o los avnces de proyecto
 
-* Esta compuesto de padre cualcuenta con cierto atributos los cuales pueden ser heredados por sus hijos en las diferentes clases
+  * Esta compuesto de padre cualcuenta con cierto atributos los cuales pueden ser heredados por sus hijos en las diferentes clases
 
